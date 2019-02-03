@@ -1,0 +1,6 @@
+﻿  DataFile.cpp
+  FixedSize_Register.cpp
+c:\users\rodri\desktop\prueba1 estru\prueba1 estru\fixedsize_register.cpp(71): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  Main.cpp
+  Generating Code...
+  Prueba1 Estru.vcxproj -> C:\Users\rodri\Desktop\Prueba1 Estru\Debug\Prueba1 Estru.exe
