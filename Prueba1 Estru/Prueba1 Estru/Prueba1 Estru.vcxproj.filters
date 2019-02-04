@@ -24,6 +24,12 @@
     <ClCompile Include="FixedSize_Register.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\..\Downloads\New folder\attachments\DelimiterVarSize_Register.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Downloads\New folder\attachments\KnownVarSize.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DataFile.h">
@@ -32,10 +38,10 @@
     <ClInclude Include="FixedSize_Register.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="KnownVarSize_Register.h">
+    <ClInclude Include="..\..\..\Downloads\New folder\attachments\DelimiterVarSize_Register.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="DelimiterVarSize_Register.h">
+    <ClInclude Include="..\..\..\Downloads\New folder\attachments\KnownVarSize_Register.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

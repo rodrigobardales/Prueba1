@@ -1,6 +1,9 @@
 #include "FixedSize_Register.h"
 
-FixedRegister::FixedRegister() {};
+FixedRegister::FixedRegister() 
+{
+	file = new DataFile((char*)"Fixed.dat");
+};
 
 
 //Imprime en consola, los campos del registro actual
@@ -75,5 +78,10 @@ int FixedRegister::get_size()
 
 void FixedRegister::Fixedmenu()
 {
-
+	bool run = true;
+	int op = 0;
+	do
+	{
+		cout << "";
+	} while (run);
 }
